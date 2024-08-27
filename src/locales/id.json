@@ -1,0 +1,85 @@
+{
+    "navbar": {
+        "about_us": "Tentang Kami",
+        "skills": "Kemampuan",
+        "projects": "Proyek",
+        "contact_me": "Kontak",
+        "lang": "Bahasa"
+    },
+    "contact": {
+        "description": "Jangan ragu untuk menghubungi melalui platform berikut. Saya selalu senang untuk terhubung!"
+    },
+    "hero": {
+        "name": "Oreo Majhesta",
+        "specialization": "Pengembang Mobile | Insinyur IoT",
+        "intro": "Saya adalah Siswa dari SMK Negeri 2 Yogyakarta, Indonesia",
+        "welcome": "Selamat datang! Saya adalah siswa yang fokus pada Aplikasi Mobile & IoT. Saya menciptakan solusi kreatif dan inovatif yang membantu kehidupan melalui alat yang mempermudah kehidupan sehari-hari.",
+        "download_cv": "Unduh CV"
+    },
+    "education": {
+        "title": "Pendidikan",
+        "school1": {
+            "name": "SMK Negeri 2 Yogyakarta",
+            "specialization": "Jurusan: Sistem Informatika Jaringan Dan Aplikasi",
+            "graduation": "Lulus: 2026"
+        },
+        "school2": {
+            "name": "SMP Negeri 1 Minggir",
+            "graduation": "Lulus: 2021"
+        }
+    },
+    "skills": {
+        "title": "Kemampuan Saya",
+        "kotlin": {
+            "title": "Kotlin",
+            "description": "Berpengalaman dalam pengembangan Android dan pemrograman JVM modern dengan Kotlin."
+        },
+        "python": {
+            "title": "Python",
+            "description": "Terampil dalam pengembangan AI dengan Python dan MicroPython untuk sistem tertanam."
+        },
+        "php": {
+            "title": "PHP",
+            "description": "Berpengalaman dalam pemrograman sisi server dengan PHP."
+        },
+        "arduino": {
+            "title": "Arduino",
+            "description": "Berpengalaman dalam pemrograman Arduino untuk prototyping dan proyek elektronik tertanam."
+        },
+        "csharp": {
+            "title": "C Sharp",
+            "description": "Terampil dalam membangun game menggunakan C#."
+        }
+    },
+    "projects": {
+        "title": "Proyek Saya",
+        "coming_soon": {
+            "title": "segera hadir",
+            "description": "segera hadir"
+        },
+        "web": {
+            "title": "Proyek Web",
+            "1": {
+                "title": "Sampahku",
+                "description": "Membuat database dan mengelola database dengan PHP"
+            },
+            "2": {
+                "title": "Majhesta Cake & Cookies",
+                "description": "Membuat situs katalog kue dan admin untuk mengelola katalog"
+            }
+        },
+        "mobile_app": {
+            "title": "Proyek Aplikasi Mobile"
+        },
+        "iot": {
+            "title": "Proyek IoT",
+            "1": {
+                "title": "Pengumpan Burung Pintar",
+                "description": "Membuat Kode, PCB, dan Mekanisme untuk perangkat pemberi makan otomatis dan mengendalikannya dari jarak jauh"
+            }
+        },
+        "game": {
+            "title": "Proyek Game"
+        }
+    }
+}

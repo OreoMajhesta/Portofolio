@@ -1,0 +1,85 @@
+{
+    "navbar": {
+        "about_us": "About Us",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact_me": "Contact Me",
+        "lang": "Language"
+    },
+    "contact": {
+        "description": "Feel free to reach out through any of the following platforms. I’m always happy to connect!"
+    },
+    "hero": {
+        "name": "Oreo Majhesta",
+        "specialization": "Mobile Developer | IoT Engineer",
+        "intro": "I'm a Student From SMK Negeri 2 Yogyakarta, Indonesian",
+        "welcome": "Welcome! I am a Student who focuses on Mobile App & IoT. I create creative and innovative solutions that help in life through tools that make everyday life easier.",
+        "download_cv": "Download CV"
+    },
+    "education": {
+        "title": "Education",
+        "school1": {
+            "name": "SMK Negeri 2 Yogyakarta",
+            "specialization": "Majoring: Sistem Infromatika Jaringan Dan Aplikasi",
+            "graduation": "Graduation: 2026"
+        },
+        "school2": {
+            "name": "SMP Negeri 1 Minggir",
+            "graduation": "Graduation: 2021"
+        }
+    },
+    "skills": {
+        "title": "My Skills",
+        "kotlin": {
+            "title": "Kotlin",
+            "description": "Experienced in Android development and modern JVM programming with Kotlin."
+        },
+        "python": {
+            "title": "Python",
+            "description": "Proficient in AI development with Python and MicroPython for embedded systems."
+        },
+        "php": {
+            "title": "PHP",
+            "description": "Experienced in server-side scripting with PHP."
+        },
+        "arduino": {
+            "title": "Arduino",
+            "description": "Experienced in Arduino programming for prototyping and embedded electronics projects."
+        },
+        "csharp": {
+            "title": "C Sharp",
+            "description": "Skilled in building games using C#."
+        }
+    },
+    "projects": {
+        "title": "My Projects",
+        "coming_soon": {
+            "title": "Coming Soon",
+            "description": "Coming Soon"
+        },
+        "web": {
+            "title": "Web Projects",
+            "1": {
+                "title": "Sampahku",
+                "description": "Creating a database and managing a database with php"
+            },
+            "2": {
+                "title": "Majhesta Cake & Cookies",
+                "description": "Create a cake catalog Website and admin for manage catalog"
+            }
+        },
+        "mobile_app": {
+            "title": "Mobile App Projects"
+        },
+        "iot": {
+            "title": "IoT Projects",
+            "1": {
+                "title": "Smart Bird Feeder",
+                "description": "Create a Code, PCB, and Mechanism for automatic feeding device and control it remotely"
+            }
+        },
+        "game": {
+            "title": "Game Projects"
+        }
+    }
+}
