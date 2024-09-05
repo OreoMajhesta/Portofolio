@@ -3,6 +3,7 @@ import { initReactI18next } from 'react-i18next';
 
 import en from './locales/en.json';
 import id from './locales/id.json';
+import jpn from './locales/jpn.json';
 
 i18n
     .use(initReactI18next) 
@@ -13,6 +14,9 @@ i18n
             },
             indonesia: {
                 translation: id,
+            },
+            japanese: {
+                translation: jpn,
             },
         },
         lng: 'indonesia', 

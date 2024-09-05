@@ -1,0 +1,85 @@
+{
+    "navbar": {
+        "about_us": "私たちに関しては",
+        "skills": "スキル",
+        "projects": "プロジェクト",
+        "contact_me": "お問い合わせ",
+        "lang": "言語"
+    },
+    "contact": {
+        "description": "以下のプラットフォームを通じてお気軽にお問い合わせください。私はいつでもつながることを楽しみにしています！"
+    },
+    "hero": {
+        "name": "オレオ・マジュスタ",
+        "specialization": "モバイル開発者 | IoTエンジニア",
+        "intro": "私はインドネシア、ジョグジャカルタのSMK Negeri 2の学生です。",
+        "welcome": "ようこそ！私はモバイルアプリケーションとIoTに焦点を当てた学生です。日常生活を便利にするためのクリエイティブで革新的なソリューションを作り出しています。",
+        "download_cv": "履歴書をダウンロード"
+    },
+    "education": {
+        "title": "教育",
+        "school1": {
+            "name": "SMK Negeri 2 Yogyakarta",
+            "specialization": "専攻: 情報システムネットワークとアプリケーション",
+            "graduation": "卒業：2026年"
+        },
+        "school2": {
+            "name": "SMP Negeri 1 Minggir",
+            "graduation": "卒業：2021年"
+        }
+    },
+    "skills": {
+        "title": "私のスキル",
+        "kotlin": {
+            "title": "コトリン",
+            "description": "Android開発とKotlinを使用した最新のJVMプログラミングに経験があります。"
+        },
+        "python": {
+            "title": "パイソン",
+            "description": "Pythonと組み込みシステム向けのMicroPythonでのAI開発に熟練しています。"
+        },
+        "php": {
+            "title": "PHP",
+            "description": "PHPを使用したサーバーサイドプログラミングに経験があります。"
+        },
+        "arduino": {
+            "title": "アルドゥイーノ",
+            "description": "Arduinoを使ったプロトタイピングと組み込みエレクトロニクスプロジェクトに経験があります。"
+        },
+        "csharp": {
+            "title": "Cシャープ",
+            "description": "C#を使用してゲームを構築するスキルを持っています。"
+        }
+    },
+    "projects": {
+        "title": "私のプロジェクト",
+        "coming_soon": {
+            "title": "近日公開",
+            "description": "近日公開"
+        },
+        "web": {
+            "title": "ウェブプロジェクト",
+            "1": {
+                "title": "Sampahku",
+                "description": "PHPを使用してデータベースを作成および管理"
+            },
+            "2": {
+                "title": "Majhesta Cake & Cookies",
+                "description": "ケーキカタログサイトとカタログを管理するための管理者を作成"
+            }
+        },
+        "mobile_app": {
+            "title": "モバイルアプリプロジェクト"
+        },
+        "iot": {
+            "title": "IoTプロジェクト",
+            "1": {
+                "title": "スマートバードフィーダー",
+                "description": "コード、PCB、メカニズムを作成して、自動給餌装置を作り、遠隔で制御します"
+            }
+        },
+        "game": {
+            "title": "ゲームプロジェクト"
+        }
+    }
+}

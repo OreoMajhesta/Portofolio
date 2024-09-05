@@ -35,20 +35,20 @@ export default function Hero() {
             alt="Profile"
             className="w-32 h-32 md:w-60 md:h-60 rounded-full border-4 border-blue-600 mb-4 md:mb-0"
           />
-          <div className="text-center md:text-left">
+          <div className="text-center md:text-left mt-3">
             <h1 className="text-4xl font-bold mb-2">{t('hero.name')}</h1>
             <p className="text-lg mb-4">{t('hero.specialization')}</p>
           </div>
         </div>
-        <div className="mt-6 md:mt-3 md:ml-12 sm:mt-8">
+        <div className="mt-6 md:mt-3 md:ml-12  mx-4">
           <h1 className="text-slate-50 text-3xl font-extrabold lg:text-5xl lg:text-left max-w-md font-oswald">
             {t('hero.intro')}
           </h1>
           <p className="mt-6 md:text-left text-lg max-w-md">
-          {t('hero.welcome')}
+            {t('hero.welcome')}
           </p>
           <button
-            className="mt-5 w-44 h-10 bg-red-500 rounded-md flex items-center justify-center gap-x-2 text-white text-center text-lg"
+            className="mt-5 w-auto p-3 h-10 bg-red-500 rounded-md flex items-center justify-center gap-x-2 text-white text-center text-lg"
             onClick={handleDownload}
           >
             <GoDownload className="text-xl" />

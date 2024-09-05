@@ -6,7 +6,7 @@ export default function Navbar() {
   const { t, i18n } = useTranslation();
   const [showLanguageOptions, setShowLanguageOptions] = useState(false);
 
-  const languages = ['english', 'indonesia'];
+  const languages = ['english', 'indonesia', 'japanese'];
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
